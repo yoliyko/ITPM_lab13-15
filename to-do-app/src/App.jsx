@@ -6,4 +6,4 @@ export default function App() {
       <h1 className={styles.title}>Hello World</h1>
     </div>
   )
-}
+
